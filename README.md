@@ -8,4 +8,4 @@ Please see [here](https://jessie2019w.github.io/Crypto-Sector-Comparison/).
 - Each category returns only the first page of tokens (max 100); here we limit to 20 for speed.
 - Sector-level full token lists are not available.
 - The free plan works but may be slower.
-- 👉 For broader or more precise data, consider a [paid plan](https://www.coingecko.com/en/api/pricing).
+- 👉 For broader or more precise data, consider a CoinGecko [paid API plan](https://www.coingecko.com/en/api/pricing).
