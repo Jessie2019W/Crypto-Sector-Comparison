@@ -4,14 +4,6 @@ This project analyzes and compares the performance of different crypto categorie
 ## Demo Result Chart
 Please see [here](https://jessie2019w.github.io/Crypto-Sector-Comparison/).
 
-## CoinGecko API (Free / Demo Plan) Limitations
-- Historical data is limited to the past 365 days only.
-- Free API plan can only set the time range by "days ago", not a custom start–end range.
-- Each category returns only the first page of tokens (max 100); here we limit to 20 for speed.
-- Sector-level full token lists are not available.
-- The free plan works but may be slower.
-- 👉 For broader or more precise data, consider a [CoinGecko paid API plan](https://www.coingecko.com/en/api/pricing).
-
 ## ⚙️ Configuration
 Before running the **Main.ipynb**, adjust the configuration parameters as needed or use the current config file for demo:
 
@@ -50,3 +42,11 @@ Before running the **Main.ipynb**, adjust the configuration parameters as needed
 ## 📊 Output
 - The script will generate an interactive comparative chart in the Jupyter Notebook and export an .html file containing the same chart.
 - Please find the demo result chart [here](https://jessie2019w.github.io/Crypto-Sector-Comparison/).
+
+## CoinGecko API (Free / Demo Plan) Limitations
+- Historical data is limited to the past 365 days only.
+- Free API plan can only set the time range by "days ago", not a custom start–end range.
+- Each category returns only the first page of tokens (max 100); here we limit to 20 for speed.
+- Sector-level full token lists are not available.
+- The free plan works but may be slower.
+- 👉 For broader or more precise data, consider a [CoinGecko paid API plan](https://www.coingecko.com/en/api/pricing).
